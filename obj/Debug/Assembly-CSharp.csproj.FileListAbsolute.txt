@@ -1,0 +1,2 @@
+F:\training\codekul\Unity-training\Codekul-Training\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\training\codekul\Unity-training\Codekul-Training\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
